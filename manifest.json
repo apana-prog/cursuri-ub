@@ -1,0 +1,76 @@
+{
+  "construit": "2026-10-04",
+  "discipline": [
+    {
+      "cod": "UB_ISP",
+      "pagini": 9,
+      "widgets": 0,
+      "institutie": {
+        "ro": "Universitatea din București",
+        "en": "University of Bucharest"
+      },
+      "program": {
+        "ro": "Servicii și politici de sănătate publică (licență), anul I",
+        "en": "Public Health Services and Policies (BSc), Year I"
+      },
+      "afirmatii_publicate": 17,
+      "titlu": {
+        "ro": "Introducere în sănătate publică",
+        "en": "Introduction to Public Health"
+      },
+      "limbi": [
+        "ro"
+      ],
+      "limba_canonica": "ro",
+      "descriere": {
+        "ro": "Prima disciplină de specialitate a programului. Urmărește cum a apărut sănătatea publică, ce face ea astăzi și cu ce instrumente lucrează: datele și indicatorii, noțiunile de bază de biostatistică și epidemiologie, legislația și politicile, determinanții sociali, comportamentali și de mediu ai sănătății, bolile transmisibile și netransmisibile, amenințările globale. La seminar, fiecare echipă analizează pe parcursul semestrului o problemă de sănătate publică din România, pe date oficiale, și propune intervenții argumentate.",
+        "en": ""
+      },
+      "an_universitar": "2026–2027",
+      "unitati_publicate": 2,
+      "unitati_total": 21,
+      "amprente": {
+        "ro": {
+          "C01": "660a89ecfc61e2ce",
+          "LP01": "be002f3be548b015"
+        }
+      }
+    },
+    {
+      "cod": "UB_MSSS",
+      "pagini": 9,
+      "widgets": 0,
+      "institutie": {
+        "ro": "Universitatea din București",
+        "en": "University of Bucharest"
+      },
+      "program": {
+        "ro": "Servicii și politici de sănătate publică (licență), anul II",
+        "en": "Public Health Services and Policies (BSc), Year II"
+      },
+      "afirmatii_publicate": 19,
+      "titlu": {
+        "ro": "Management strategic în sănătate",
+        "en": "Strategic Management in Health Care"
+      },
+      "limbi": [
+        "ro"
+      ],
+      "limba_canonica": "ro",
+      "descriere": {
+        "ro": "Cum își alege o organizație de sănătate direcția și cum ajunge de la analiză la fapte. Disciplina parcurge procesul strategic: analiza mediului extern, a concurenților și a mediului intern, misiunea, viziunea și obiectivele, alternativele strategice și alegerea între ele, strategiile de furnizare a serviciilor și de suport, planul de acțiune cu indicatori, planificarea și integrarea serviciilor de sănătate. La seminar, fiecare echipă elaborează pe parcursul semestrului planul strategic al unei organizații de sănătate reale din România, numai pe baza informațiilor publice.",
+        "en": ""
+      },
+      "an_universitar": "2026–2027",
+      "unitati_publicate": 2,
+      "unitati_total": 21,
+      "amprente": {
+        "ro": {
+          "C01": "7a03399c494ded80",
+          "LP01": "e2b9b7966f1fecbb"
+        }
+      }
+    }
+  ],
+  "generator": "atelier-didactic/build_site.py"
+}
