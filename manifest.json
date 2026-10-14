@@ -1,5 +1,5 @@
 {
-  "construit": "2026-10-13",
+  "construit": "2026-10-14",
   "discipline": [
     {
       "cod": "UB_ISP",
@@ -13,7 +13,7 @@
         "ro": "Servicii și politici de sănătate publică (licență), anul I",
         "en": "Public Health Services and Policies (BSc), Year I"
       },
-      "afirmatii_publicate": 108,
+      "afirmatii_publicate": 143,
       "titlu": {
         "ro": "Introducere în sănătate publică",
         "en": "Introduction to Public Health"
