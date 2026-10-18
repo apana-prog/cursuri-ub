@@ -3,7 +3,7 @@
   "discipline": [
     {
       "cod": "UB_ISP",
-      "pagini": 14,
+      "pagini": 15,
       "widgets": 0,
       "institutie": {
         "ro": "Universitatea din București",
@@ -71,8 +71,8 @@
         "ro": {
           "C01": "3013603926aaacf4",
           "LP01": "fa2eb198e4c520bd",
-          "C02": "ae1db05e29a56227",
-          "C03": "cdc56310823f8a3d",
+          "C02": "1b5ec7a85dba166d",
+          "C03": "3bb266095af41fc4",
           "LP02": "2b2b781cf7a651a8"
         }
       }
