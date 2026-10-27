@@ -1,9 +1,9 @@
 {
-  "construit": "2026-10-26",
+  "construit": "2026-10-27",
   "discipline": [
     {
       "cod": "UB_ISP",
-      "pagini": 18,
+      "pagini": 19,
       "widgets": 1,
       "institutie": {
         "ro": "Universitatea din București",
@@ -52,7 +52,7 @@
         "ro": "Servicii și politici de sănătate publică (licență), anul II",
         "en": "Public Health Services and Policies (BSc), Year II"
       },
-      "afirmatii_publicate": 159,
+      "afirmatii_publicate": 184,
       "titlu": {
         "ro": "Management strategic în sănătate",
         "en": "Strategic Management in Health Care"
