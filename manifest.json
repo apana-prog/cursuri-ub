@@ -1,9 +1,9 @@
 {
-  "construit": "2026-10-30",
+  "construit": "2026-10-31",
   "discipline": [
     {
       "cod": "UB_ISP",
-      "pagini": 19,
+      "pagini": 21,
       "widgets": 1,
       "institutie": {
         "ro": "Universitatea din București",
@@ -43,7 +43,7 @@
     {
       "cod": "UB_MSSS",
       "pagini": 21,
-      "widgets": 1,
+      "widgets": 3,
       "institutie": {
         "ro": "Universitatea din București",
         "en": "University of Bucharest"
@@ -52,7 +52,7 @@
         "ro": "Servicii și politici de sănătate publică (licență), anul II",
         "en": "Public Health Services and Policies (BSc), Year II"
       },
-      "afirmatii_publicate": 184,
+      "afirmatii_publicate": 197,
       "titlu": {
         "ro": "Management strategic în sănătate",
         "en": "Strategic Management in Health Care"
@@ -66,7 +66,7 @@
         "en": ""
       },
       "an_universitar": "2026–2027",
-      "unitati_publicate": 6,
+      "unitati_publicate": 8,
       "unitati_total": 21,
       "amprente": {
         "ro": {
@@ -75,7 +75,9 @@
           "C02": "1b5ec7a85dba166d",
           "C03": "3bb266095af41fc4",
           "LP02": "2b2b781cf7a651a8",
-          "C04": "617e0ea0f837892a"
+          "C04": "617e0ea0f837892a",
+          "C05": "d9a33686e4361713",
+          "LP03": "6b574c88b987169b"
         }
       }
     }
