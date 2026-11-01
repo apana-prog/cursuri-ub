@@ -27,7 +27,7 @@
         "en": ""
       },
       "an_universitar": "2026–2027",
-      "unitati_publicate": 6,
+      "unitati_publicate": 8,
       "unitati_total": 21,
       "amprente": {
         "ro": {
@@ -36,7 +36,9 @@
           "C02": "67f81aeea2ba573b",
           "C03": "f4f7ed97a7ecfa72",
           "LP02": "0b3f35e8cb577b2b",
-          "C04": "9f9ada6175c058d8"
+          "C04": "9f9ada6175c058d8",
+          "C05": "c3568346443f65af",
+          "LP03": "05b00cc75371a868"
         }
       }
     },
