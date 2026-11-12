@@ -1,9 +1,9 @@
 {
-  "construit": "2026-11-12",
+  "construit": "2026-11-13",
   "discipline": [
     {
       "cod": "UB_ISP",
-      "pagini": 23,
+      "pagini": 25,
       "widgets": 1,
       "institutie": {
         "ro": "Universitatea din București",
@@ -13,7 +13,7 @@
         "ro": "Servicii și politici de sănătate publică (licență), anul I",
         "en": "Public Health Services and Policies (BSc), Year I"
       },
-      "afirmatii_publicate": 275,
+      "afirmatii_publicate": 332,
       "titlu": {
         "ro": "Introducere în sănătate publică",
         "en": "Introduction to Public Health"
@@ -27,7 +27,7 @@
         "en": ""
       },
       "an_universitar": "2026–2027",
-      "unitati_publicate": 8,
+      "unitati_publicate": 9,
       "unitati_total": 21,
       "amprente": {
         "ro": {
@@ -38,7 +38,8 @@
           "LP02": "0b3f35e8cb577b2b",
           "C04": "9f9ada6175c058d8",
           "C05": "fe749b6086bcc135",
-          "LP03": "4a0123690f0ec673"
+          "LP03": "4a0123690f0ec673",
+          "C06": "0d74486a79e7f246"
         }
       }
     },
