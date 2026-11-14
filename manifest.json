@@ -55,7 +55,7 @@
         "ro": "Servicii și politici de sănătate publică (licență), anul II",
         "en": "Public Health Services and Policies (BSc), Year II"
       },
-      "afirmatii_publicate": 275,
+      "afirmatii_publicate": 291,
       "titlu": {
         "ro": "Management strategic în sănătate",
         "en": "Strategic Management in Health Care"
@@ -69,7 +69,7 @@
         "en": ""
       },
       "an_universitar": "2026–2027",
-      "unitati_publicate": 9,
+      "unitati_publicate": 11,
       "unitati_total": 21,
       "amprente": {
         "ro": {
@@ -81,7 +81,9 @@
           "C04": "617e0ea0f837892a",
           "C05": "d9a33686e4361713",
           "LP03": "e256c681f4efca14",
-          "C06": "3f993d139e41d15e"
+          "C06": "3f993d139e41d15e",
+          "C07": "006edc83f60b1f5a",
+          "LP04": "1c8fd763bd4545a6"
         }
       }
     }
