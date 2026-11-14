@@ -1,5 +1,5 @@
 {
-  "construit": "2026-11-13",
+  "construit": "2026-11-14",
   "discipline": [
     {
       "cod": "UB_ISP",
@@ -45,7 +45,7 @@
     },
     {
       "cod": "UB_MSSS",
-      "pagini": 25,
+      "pagini": 27,
       "widgets": 3,
       "institutie": {
         "ro": "Universitatea din București",
