@@ -1,9 +1,9 @@
 {
-  "construit": "2026-11-16",
+  "construit": "2026-11-17",
   "discipline": [
     {
       "cod": "UB_ISP",
-      "pagini": 27,
+      "pagini": 29,
       "widgets": 1,
       "institutie": {
         "ro": "Universitatea din București",
