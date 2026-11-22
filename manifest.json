@@ -1,9 +1,9 @@
 {
-  "construit": "2026-11-21",
+  "construit": "2026-11-22",
   "discipline": [
     {
       "cod": "UB_ISP",
-      "pagini": 30,
+      "pagini": 32,
       "widgets": 1,
       "institutie": {
         "ro": "Universitatea din București",
@@ -27,7 +27,7 @@
         "en": ""
       },
       "an_universitar": "2026–2027",
-      "unitati_publicate": 11,
+      "unitati_publicate": 12,
       "unitati_total": 21,
       "amprente": {
         "ro": {
@@ -41,13 +41,14 @@
           "LP03": "f667e179b47f97bb",
           "C06": "0d74486a79e7f246",
           "C07": "3f84899e40ef6a56",
-          "LP04": "1f1ed5c59b75ba33"
+          "LP04": "1f1ed5c59b75ba33",
+          "C08": "8db9f9b4fb6a4978"
         }
       }
     },
     {
       "cod": "UB_MSSS",
-      "pagini": 30,
+      "pagini": 32,
       "widgets": 3,
       "institutie": {
         "ro": "Universitatea din București",
